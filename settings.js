@@ -10,31 +10,31 @@ const chalk = require('chalk');
 
 //owmner v card
 
-global.ytname = "YT: GlobalTechInfo" //ur yt chanel name
+global.ytname = "YT: devastinglordxemon" //ur yt chanel name
 
-global.socialm = "GitHub: GlobalTechInfo" //ur github or insta name
+global.socialm = "GitHub: ashredwan" //ur github or insta name
 
-global.location = "Pakistan, Karachi, Karachi" //ur location
+global.location = "Bangladesh, Rangpur" //ur location
 
 
 
 //new
 
-global.botname = '© 𝐆𝐋𝐎𝐁𝐀𝐋-𝐌𝐃' //ur bot name
+global.botname = 'Redwan's Pet' //ur bot name
 
-global.ownernumber = ['+88001820414108'] //ur owner number, dont add more than one
+global.ownernumber = ['01322333409'] //ur owner number, dont add more than one
 
 global.ownername = '© GlobalTechInfo' //ur owner name
 
-global.websitex = "https://www.youtube.com/@GlobalTechInfo"
+global.websitex = "https://www.facebook.com/anchestoradmin"
 
-global.wagc = "https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07"
+global.wagc = ""
 
-global.themeemoji = '🪀'
+global.themeemoji = '👽'
 
-global.wm = "Xeon Bot Inc."
+global.wm = "Redwan's Bot inc."
 
-global.botscript = 'https://github.com/GlobalTechInfo/GLOBAL-MD' //script link
+global.botscript = 'https://github.com/ashredwan0/WhatsApp-bot/' //script link
 
 global.packname = "Sticker By"
 
@@ -44,7 +44,7 @@ global.creator = "923444844060@s.whatsapp.net"
 
 global.xprefix = '.'
 
-global.premium = ["+88001820414108"] // Premium User
+global.premium = ["01322333409"] // Premium User
 
 
 
