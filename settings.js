@@ -20,7 +20,7 @@ global.location = "Bangladesh, Rangpur" //ur location
 
 //new
 
-global.botname = 'Redwan's Pet' //ur bot name
+global.botname = 'Redwans Pet' //ur bot name
 
 global.ownernumber = ['01322333409'] //ur owner number, dont add more than one
 
